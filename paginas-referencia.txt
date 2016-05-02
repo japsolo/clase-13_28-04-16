@@ -1,0 +1,29 @@
+Hosting gratuito
+
+	- http://hostinger.com.ar/
+	- http://www.000webhost.com/
+	- http://eshost.com.ar/
+
+Hosting de pago
+
+	- http://godaddy.com
+	- http://donweb.com
+	- http://neolo.com
+
+Registro de Dominio
+
+	- http://nic.ar
+	- http://godaddy.com
+	- http://register.com
+
+Google page speed test
+
+	- https://developers.google.com/speed/pagespeed/insights/
+
+Optimizar imágenes
+
+	- http://tiny.png
+
+Validación HTML - W3C
+
+	- http://validator.w3.org
